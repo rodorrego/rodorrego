@@ -28,5 +28,5 @@
     <li>Correo: rodorrego09@gmail.com</li>
     <li>Linkedin: www.linkedin.com/in/rominadorrego</li>
   </ul>
-<h5>Aquí mismo puedes encontrar mis trabajos más destacados. Te invito a mirarlos si gustas😊</h5>
+<h4>Aquí mismo puedes encontrar mis trabajos más destacados. Te invito a mirarlos si gustas😊</h4>
 
