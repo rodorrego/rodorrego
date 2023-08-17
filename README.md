@@ -1,13 +1,13 @@
 ### Hola👋, mi nombre es Romina Dorrego
 <h4><center>Soy Tester JR freelance ✨</h4></center>
 <br>
+  
 ![img](https://raw.githubusercontent.com/rodorrego/rodorrego/main/assets/banner.jpg)
+
 <br>
 <h4>Sobre mí:</h4>
 <p>Actualmente soy estudiante de Digital House en la carrera Certified Tech Developer, formándome más a fondo en el área de programación. Cuento con conocimientos sólidos en Testing Funcional y bases de datos. Lo que me destaca es mi capacidad sin lugar a dudas para ser autónoma, organizada y responsable en mi trabajo.</p>
-<br>
 <p>Tengo un nivel de inglés intermedio (A2) con facilidades para entender textos y redactarlos. En cuanto al "speaking", me encuentro en un nivel básico en el que estoy trabajando para mejorar.</p>
-<br>
 <h4>Lenguajes:</h4>
 <!-- Agrega la lista de lenguajes aquí -->
 <h4>Herramientas:</h4>
