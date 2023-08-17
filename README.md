@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[img](https://raw.githubusercontent.com/rodorrego/rodorrego/main/assets/banner.jpg)
+![img](https://raw.githubusercontent.com/rodorrego/rodorrego/main/assets/banner.jpg)
 
 <!--
 **rodorrego/rodorrego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
