@@ -1,5 +1,5 @@
 ### Hola👋, mi nombre es Romina Dorrego
-<h4><center>Soy Tester JR freelance ✨</h4></center>
+<center><h4>Soy Tester JR freelance ✨</h4></center>
 <br>
   
 ![img](https://raw.githubusercontent.com/rodorrego/rodorrego/main/assets/banner.jpg)
@@ -13,5 +13,5 @@
 <!-- Agrega la lista de herramientas aquí -->
 <h4>Contacto:</h4>
 <!-- Agrega tus detalles de contacto aquí -->
-<h4><center>Aquí mismo puedes encontrar mis trabajos más destacados. Te invito a mirarlos si gustas😊</center></h4>
+<center><h4>Aquí mismo puedes encontrar mis trabajos más destacados. Te invito a mirarlos si gustas😊</h4></center>
 
