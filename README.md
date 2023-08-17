@@ -12,7 +12,7 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>Javascript<li>
+    <li>Javascript</li>
     <li>SQL</li>
     <li>Ruby</li>
   </ul>
