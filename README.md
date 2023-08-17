@@ -1,5 +1,6 @@
 ### Hola👋, mi nombre es Romina Dorrego
 <h3>Soy Tester JR freelance ✨</h3>
+
 ![img](https://raw.githubusercontent.com/rodorrego/rodorrego/main/assets/banner.jpg)
 
 <h3 align="left">Lenguajes:</h3>
